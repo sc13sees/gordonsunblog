@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/sc13sees/sc13sees.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[1st.md](https://sc13sees.github.io/gordonsunblog/page/1st.md)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
