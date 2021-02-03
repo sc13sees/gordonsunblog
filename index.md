@@ -1,7 +1,7 @@
 <div align='center' ><font color=green size='50'>深空的博客</font></div>
 
-First Header | Second Header
------------- | -------------
+|  表头   | 表头  |
+|  ----  | ----  |
 
 
 
