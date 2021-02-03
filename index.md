@@ -1,9 +1,11 @@
 # 深空的博客
 
 
-|  [读书](https://github.com/sc13sees/gordonsunblog/issues/1)   | 影评  | 想   |  摄影  |
+|[读书](https://github.com/sc13sees/gordonsunblog/issues/1)   | 影评  | 想   |  摄影  |
 
-
+| 表格      | 第一列     | 第二列     |
+| ---------- | :-----------:  | :-----------: |
+| 第一行     | 第一列     | 第二列     |
 
 
 
