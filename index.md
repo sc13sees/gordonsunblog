@@ -1,6 +1,6 @@
 # 深空的博客
 
-[读书](https://github.com/sc13sees/gordonsunblog/issues/1) 影评 想 [摄影](https://github.com/sc13sees/gordonsunblog/issues/3)
+[读书](https://github.com/sc13sees/gordonsunblog/issues/1) &ensp; 影评 &ensp;  想 &ensp; [摄影](https://github.com/sc13sees/gordonsunblog/issues/3)
 
 
  
@@ -8,16 +8,6 @@
 
  **screen name：** 深空骑士    &emsp;   Mail: <376198770@qq.com>
 
-
-
-
-You can use the [editor on GitHub](https://github.com/sc13sees/sc13sees.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
