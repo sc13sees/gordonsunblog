@@ -1,8 +1,8 @@
 # 深空的博客
 
-[读书](https://github.com/sc13sees/gordonsunblog/issues/1)   | 影评  | 想   |  [摄影](https://github.com/sc13sees/gordonsunblog/issues/3)
+[读书](https://github.com/sc13sees/gordonsunblog/issues/1)|影评|想|[摄影](https://github.com/sc13sees/gordonsunblog/issues/3)
 
-> **Keyword: ** `IT从业者` / `科幻小说` / `电影` / ` 书籍 ` / `徒步爱好者` / `大连土著`
+> **Keyword: ** `IT从业者` / `科幻小说` / `电影` / `书籍` / `徒步爱好者` / `大连土著`
 >
 > **screen name：** 深空骑士       [Mail:376198770@qq.com]
 >
