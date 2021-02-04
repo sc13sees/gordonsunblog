@@ -9,7 +9,21 @@
  **screen name：** 深空骑士 / GordonSun   &emsp;   Mail: <376198770@qq.com>
 
 
-<img src="/IMG_0057.jpg" class="round_icon"  alt="">
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+
+<div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
+
+<img src="/IMG_0057.jpg" alt="只是圆形图片" />
+
+</div>
+
+</head>
+
+</html>
 IMG_0057.jpg
 
 > #### 入口在上面
