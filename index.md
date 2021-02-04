@@ -15,7 +15,7 @@
 
 <meta charset="utf-8" />
 
-<div style="width:120px; height:120px; border-radius:100%; overflow:hidden;">
+<div style="width:120px; height:120px; border-radius:80%; overflow:hidden;">
 
 <img src="https://raw.githubusercontent.com/sc13sees/gordonsunblog/main/IMG_0057.jpg" alt="只是圆形图片" />
 
