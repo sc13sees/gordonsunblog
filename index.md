@@ -7,7 +7,7 @@
  **Keyword:**  `IT从业者` / `科幻小说` / `电影` / `书籍` / `徒步爱好者` / `大连土著`
 
  **screen name：** 深空骑士 / GordonSun   &emsp;   Mail: <376198770@qq.com>
-
+3
 
 <html>
 
@@ -17,14 +17,14 @@
 
 <div style="width:100px; height:100px; border-radius:100%; overflow:hidden;">
 
-<img src="/IMG_0057.jpg" alt="只是圆形图片" />
+<img src="https://github.com/sc13sees/gordonsunblog/blob/main/IMG_0057.jpg" alt="只是圆形图片" />
 
 </div>
 
 </head>
 
 </html>
-IMG_0057.jpg
+
 
 > #### 入口在上面
 
