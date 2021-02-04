@@ -6,10 +6,11 @@
  
  **Keyword:**  `IT从业者` / `科幻小说` / `电影` / `书籍` / `徒步爱好者` / `大连土著`
 
- **screen name：** 深空骑士    &emsp;   Mail: <376198770@qq.com>
+ **screen name：** 深空骑士 / GordonSun   &emsp;   Mail: <376198770@qq.com>
 
 
-
+<img src="/IMG_0057.jpg" class="round_icon"  alt="">
+IMG_0057.jpg
 
 > #### 入口在上面
 
