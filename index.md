@@ -9,7 +9,7 @@
  **screen name：** 深空骑士 / GordonSun   &emsp;   Mail: <376198770@qq.com>
 
 5
-
+[另一种链接](./Day01-15/02.语言元素.md)
 
 
 > #### 入口在上面
