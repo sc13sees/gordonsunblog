@@ -6,9 +6,9 @@
  
  **Keyword:**  `IT从业者` / `科幻小说` / `电影` / `书籍` / `徒步爱好者` / `大连土著`
 
- **Screen name：** 深空骑士 / GordonSun   &emsp;   Mail: <376198770@qq.com>
+ **Nickname：** 深空骑士 / GordonSun   &emsp;   Mail: <376198770@qq.com>
 
-在这里你可以看到我产出的一些内容，入口在上面.  :beer:
+在这里你可以看到我产出的一些内容，入口在上面.  :)
 
 
 
