@@ -20,14 +20,31 @@
 <head>
 
 <meta charset="utf-8" />
+<style type="text/css">
+#div1{
+margin-left:2px;
 
-<div style="width:120px; height:120px; border-radius:80%; overflow:hidden;">
+}
+#div2{
+margin-left:100px;
+}
+</style>
+</head>
+<body>
 
-<img src="https://raw.githubusercontent.com/sc13sees/gordonsunblog/main/IMG_0057.jpg" alt="只是圆形图片" />
+<div id="div1" style="width:120px; height:120px;  border-radius:80%; overflow:hidden; float:left;">
+
+<img src="https://raw.githubusercontent.com/sc13sees/gordonsunblog/main/IMG_0057.jpg" alt="头像" />
 
 </div>
 
-</head>
+<div id="div2" style="width:150px; height:120px; overflow:hidden;float:left;">
+
+<img src="https://raw.githubusercontent.com/sc13sees/gordonsunblog/main/red-hat-certified-engineer-rhce.png" alt="证书" />
+
+</div>
+</body>
+
+
 
 </html>
-<div style="width:120px; height:120px;" data-share-badge-id="7949d73a-d1bb-40fc-ab04-8af226bfe426" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
