@@ -38,7 +38,7 @@ margin-left:100px;
 
 </div>
 
-<div id="div2" style="width:150px; height:120px; overflow:hidden;float:left;">
+<div id="div2" style="width:150px; height:120px; float:left;">
 
 <img src="https://raw.githubusercontent.com/sc13sees/gordonsunblog/main/red-hat-certified-engineer-rhce.png" alt="证书" />
 
