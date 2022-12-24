@@ -26,7 +26,7 @@ margin-left:2px;
 
 }
 #div2{
-margin-left:200px;
+margin-left:280px;
 }
 </style>
 </head>
