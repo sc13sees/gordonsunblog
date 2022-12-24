@@ -31,17 +31,15 @@ margin-left:300px;
 </style>
 </head>
 <body>
-
+ 
 <div id="div1" style="width:120px; height:120px;  border-radius:80%; overflow:hidden; float:left;">
-
-<img src="https://raw.githubusercontent.com/sc13sees/gordonsunblog/main/IMG_0057.jpg" alt="头像" />
-
+    <img src="https://raw.githubusercontent.com/sc13sees/gordonsunblog/main/IMG_0057.jpg" alt="头像" />
 </div>
 
 <div id="div2" style="width:150px; height:120px; float:left;">
 <a href="https://www.credly.com/badges/7949d73a-d1bb-40fc-ab04-8af226bfe426/public_url" target="-blank" title="我的it资质之一">
-<img src="https://raw.githubusercontent.com/sc13sees/gordonsunblog/main/red-hat-certified-engineer-rhce.png" alt="证书" />
-
+    <img src="https://raw.githubusercontent.com/sc13sees/gordonsunblog/main/red-hat-certified-engineer-rhce.png" alt="证书" />
+ </a>
 </div>
 </body>
 
