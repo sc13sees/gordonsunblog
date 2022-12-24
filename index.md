@@ -26,7 +26,7 @@ margin-left:2px;
 
 }
 #div2{
-margin-left:280px;
+margin-left:300px;
 }
 </style>
 </head>
@@ -39,7 +39,7 @@ margin-left:280px;
 </div>
 
 <div id="div2" style="width:150px; height:120px; float:left;">
-
+<a href="https://www.credly.com/badges/7949d73a-d1bb-40fc-ab04-8af226bfe426/public_url" target="-blank" title="我的it资质之一">
 <img src="https://raw.githubusercontent.com/sc13sees/gordonsunblog/main/red-hat-certified-engineer-rhce.png" alt="证书" />
 
 </div>
