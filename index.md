@@ -30,4 +30,4 @@
 </head>
 
 </html>
-<div data-iframe-width="120" data-iframe-height="140" data-share-badge-id="7949d73a-d1bb-40fc-ab04-8af226bfe426" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div style="width:120px; height:120px;" data-share-badge-id="7949d73a-d1bb-40fc-ab04-8af226bfe426" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
